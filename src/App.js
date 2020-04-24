@@ -180,6 +180,7 @@ class App extends Component {
 		const { discountPercent } = this.state;
 		return (
 			<div className="wrapper">
+				<h1>Clothing Balance Sheet</h1>
 				<table>
 					<tbody>
 						<tr>
